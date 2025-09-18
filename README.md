@@ -1,6 +1,7 @@
 # Facial Emotion Recognition
 
 This project can look at a person’s face (from an image or webcam) and guess their emotion, like:
+
 😊 Happy, 😢 Sad, 😡 Angry, 😮 Surprised, 😐 Neutral.
 
 ## What it uses
@@ -45,4 +46,5 @@ This project can look at a person’s face (from an image or webcam) and guess t
 
 This project is licensed for learning and personal use only.
 No one else can copy or use this code without permission.
+
 
